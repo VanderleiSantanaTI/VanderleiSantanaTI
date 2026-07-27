@@ -34,6 +34,6 @@ Atualmente estou aprofundando meus conhecimentos em **Spring Security, Docker, M
 
 ## 📌 Objetivo
 
-Atuar como **Desenvolvedor Full Stack**, com especialização em **Backend Java**, desenvolvendo aplicações escaláveis, APIs modernas e soluções de alta qualidade.
+Atuar como **Desenvolvedor Full Stack**, com especialização em **AngularJS**, desenvolvendo aplicações escaláveis, Interfaces modernas e soluções de alta qualidade.
 
 📫 **LinkedIn:** https://www.linkedin.com/in/seu-linkedin
