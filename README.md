@@ -1,6 +1,6 @@
 # Olá, eu sou o Vanderlei Santana 👋
 
-💻 **Full Stack Developer** com foco em **Front-end (JavaScript Frameworks**
+💻 **Full Stack Developer** com foco em **Front-end (JavaScript Frameworks)**
 
 Tenho experiência no desenvolvimento de aplicações web utilizando **Java, Spring Boot, PHP, Angular, Ionic** e **MySQL**, criando APIs REST e soluções voltadas para desempenho, organização e escalabilidade.
 
